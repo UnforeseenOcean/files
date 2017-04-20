@@ -1,7 +1,7 @@
 # RigEK's Binary Decoder
 This script decodes the malware's encryption when dropped from RigEK (application/x-msdownload).
 
-The decode routine is affected by the version of RigEK.
+The decode routine is affected by the version of RigEK.  
 It corresponds only to RigEK which is used at the stage of April 20, 2017.
 
 ## Usage
