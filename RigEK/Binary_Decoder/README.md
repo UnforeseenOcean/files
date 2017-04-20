@@ -4,6 +4,9 @@ This script decodes the malware's encryption when dropped from RigEK (applicatio
 The decode routine is affected by the version of RigEK.  
 It corresponds only to RigEK which is used at the stage of April 20, 2017.
 
+P.S.
+This is RC4 ;)
+
 ## Usage
 ```
 $ php decoder.php [input] [output]
