@@ -8,13 +8,13 @@ P.S.
 This is RC4 ;)
 
 ## Usage
-```
+```sh
 # current key is "gexywoaxor"
 $ php decoder.php [key] [input] [output]
 ```
 
 For example
-```
+```sh
 $ php src/decoder.php "gexywoaxor" test/input.bin test/output.bin
 $ md5sum test/output.bin test/answer.bin
 ```
