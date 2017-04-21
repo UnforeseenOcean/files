@@ -9,12 +9,13 @@ This is RC4 ;)
 
 ## Usage
 ```
-$ php decoder.php [input] [output]
+# current key is "gexywoaxor"
+$ php decoder.php [key] [input] [output]
 ```
 
 For example
 ```
-$ php src/decoder.php test/input.bin test/output.bin
+$ php src/decoder.php "gexywoaxor" test/input.bin test/output.bin
 $ md5sum test/output.bin test/answer.bin
 ```
 
