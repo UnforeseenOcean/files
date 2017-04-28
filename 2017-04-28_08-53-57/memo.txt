@@ -1,0 +1,5 @@
+[root@test mal_getter]# php main.php eitest rig http://2watchmygf.com
+[*] http://2watchmygf.com
+[*] http://red.getma11.com/?oq=xfYpfuNXaAPo2UeJcgBlz4sOBFlCpKCtiUnXnxbIiZXWqUGKYAIU96KlJLd_mhj2&qtuif=4785&q=w3_QMvXcJxbQFYbGMv3DSKNbNk3WHViPxomG9MildZeqZGX_k7bDfF-qoV7cCgWR&ct=kulture
+[*] http://red.getma11.com/?q=wH_QMvXcJwDGFYbGMvrESaNbNknQA0GPxpH2_drXdZqxKGni2Ob5UUSk6FWCEh3h&qtuif=4442&oq=8aAtfLUFNFfjj0yJf1Zkz4YLAwka9K6tjBfVnR_IhMPW-hTcaQh19pucHYEyhR32&ct=sround
+[!] 2017-04-28_08-53-57.bin
