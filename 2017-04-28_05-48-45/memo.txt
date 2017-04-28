@@ -1,0 +1,5 @@
+[root@test mal_getter]# php main.php eitest rig http://visareporter.com
+[*] http://visareporter.com
+[*] http://add.thebestofwichitadirectory.com/?q=wH_QMvXcJwDLFYbGMvrET6NbNknQA0-PxpH2_drRdZqxKGni2eb5UUSk6F6CEh3&ct=soul&oq=hp_EoLbIBaAOzjBGEeldnm4xaBl4Qpvuo30mAnUWVg8TT9BCPYgt1z6LRVvQ62w&qtuif=5279
+[*] http://add.thebestofwichitadirectory.com/?oq=2D9_MtfOdQbwq1iUTSfQJmyIxZUQtBpqH72kWGwEXNiZKA_ha9aANM9qLIVLU4&q=znzQMvXcJwDQDoXGMvrESLtEMU3QA0KK2OH_76iyEoH9JHT1vrTUSkrttgWCel&qtuif=6071&ct=martery
+[!] 2017-04-28_05-48-45.bin
