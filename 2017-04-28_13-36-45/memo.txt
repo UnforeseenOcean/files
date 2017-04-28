@@ -1,0 +1,5 @@
+[root@mal-getter mal_getter]# php main.php eitest rig http://airsoftpeak.com
+[*] http://airsoftpeak.com
+[*] http://new.amrgroup.com.sa/?ct=sround&q=w37QMvXcJxzQFYbGMvnDSKNbNkrWHViPxoqG9MildZmqZGX_k7rDfF-qoVTcCgWR&qtuif=2218&oq=xfV7LONVNAuwixGFKg1kztgJAF1Goq_8j0WAyEOfiJeC_kGFMwhN_qKlJLh_mhj2
+[*] http://new.amrgroup.com.sa/?q=zn_QMvXcJwDQDovGMvrESLtEMU7QA0KK2OH_76qyEoH9JHT1vrvUSkrttgWCel&qtuif=5674&ct=kulture&oq=6H9KIoJONWaQLk3EDSLVEzyYgIVAgSoqj7jUPdyRXIiMWK_By9aANM9qLIVLE4
+[!] 2017-04-28_13-36-45.bin
