@@ -1,0 +1,5 @@
+[root@mal-getter mal_getter]# php main.php etc rig http://144.76.195.195/rig.php
+[*] http://144.76.195.195/rig.php
+[*] http://new.randylennonmedia.com/?qtuif=5278&oq=hoKAtJedQPAvniBeALVNhlYZYW1Ma_viqj0eAwB6VgZWH_UeOMg51z6LRVvQ72w&ct=soul&q=wHbQMvXcJwDKFYbGMvrET6NbNknQA0-PxpH2_drXdZqxKGni0Ob5UUSk6FqCEh3
+[*] http://new.randylennonmedia.com/?q=zn_QMvXcJwDQDoTGMvrESLtEMUbQA0KK2OH_76yyEoH9JHT1vrXUSkrttgWCel&ct=sround&qtuif=5235&oq=6Epvt4LbNYOwuzjRPWewxklY1UW1NC9q_7h0HdwBSZgMWBrh29aANM9qLIVLM4
+[!] 2017-05-01_09-05-04.bin
